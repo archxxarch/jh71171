@@ -33,7 +33,7 @@ Next.js를 이용하여 포트폴리오 사이트를 제작했습니다.
 처음으로 뷰를 이용하여 웹페이지를 제작했습니다.
 [vue-webpage](https://github.com/jh71171/vue-webpage)
 
-## GO교복!🙌
+## GO교복!👨‍🏫
 전국의 고등학교 교복 소개, 인기순위, 수다방, 로그인/회원가입의 기능을 가진 사이트를 제작했습니다.
 [port_go](https://github.com/jh71171/port_go)
 
